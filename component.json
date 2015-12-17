@@ -1,0 +1,9 @@
+{
+    "name": "can-use-dom",
+    "description": "Test if you can use dom in the current environment",
+    "repos": "https://github.com/akiran/can-use-dom.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "0.1.0"
+}
